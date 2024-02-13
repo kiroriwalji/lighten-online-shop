@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.rahul{
+    font-size: 50px;
+    background-color: blueviolet;
+}
+
+
+@media (max-width:600px) {
+.rahul{
+    background-color: yellow;
+    font-size: 10px;
+}
+}
